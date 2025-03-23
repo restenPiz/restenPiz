@@ -9,4 +9,4 @@
  
 
 # 💫 About Me:
-🔭 Software Engineer<br>👯This is a repository for sharing information about my work as a software engineer. Here you will find information about my skills, work experience, projects, as well as ways to get in touch with me.<br>🤝 I am a software engineer with 3 years of experience in software development Working both remotely and in person. 
+🔭 Software Engineer<br>👯This is a repository for sharing information about my work as a software engineer. Here you will find information about my skills, work experience, projects, as well as ways to get in touch with me.<br>🤝 I am a software engineer with 5 years of experience in software development Working both remotely and in person. 
