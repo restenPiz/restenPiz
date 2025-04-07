@@ -1,7 +1,7 @@
 # 💫 Personal Information:
 <ul>
   <li>Name: Mauro Peniel</li>
-  <li>Email: contacto@mauropeniel.info</li>
+  <li>Email: mauropeniel7@gmail.com</li>
   <li>Contact: +258 867336817 or +258 855686307</li>
   <li>Mozambican Citzen</li>
   <li>Beira City</li>
